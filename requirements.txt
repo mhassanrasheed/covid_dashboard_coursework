@@ -1,0 +1,5 @@
+ipywidgets
+matplotlib
+uk_covid19
+voila
+pandas
